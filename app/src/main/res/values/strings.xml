@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout Grid</string>
+    <string name="to">To</string>
+    <string name="to_hint">Enter email address</string>
+    <string name="message_hint">Message</string>
+    <string name="send">Send</string>
+</resources>
